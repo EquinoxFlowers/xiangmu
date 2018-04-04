@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../web/plugins/muse-ui.js"],"names":["use"],"mappings":";;AAAA;;;;AAEA;;;;AACA;;;;AACA,cAAIA,GAAJ","file":"muse-ui.js","sourcesContent":["import Vue from 'vue'\n\nimport ElementUI from 'element-ui'\nimport 'element-ui/lib/theme-chalk/index.css'\nVue.use(ElementUI);\n\n\n"]}
